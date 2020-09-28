@@ -6,8 +6,6 @@ Let me know what you think [![Twitter](http://i.imgur.com/tXSoThF.png)](https://
 
 ## Tech
 
----
-
 ### ⚛ React
 
 | Source                                                                                                    | Author        | Comment                                                                                                                                |
@@ -17,8 +15,6 @@ Let me know what you think [![Twitter](http://i.imgur.com/tXSoThF.png)](https://
 
 ## Philosophy, Psycho\*
 
----
-
 | Source                                                                    | Author          | Comment                                          |
 | ------------------------------------------------------------------------- | :-------------- | :----------------------------------------------- |
 | 🎞️ [The Success Paradox](https://youtu.be/3LopI4YeC4I)                    | Veritasium      | What key does skill really play in ones success? |
@@ -26,11 +22,7 @@ Let me know what you think [![Twitter](http://i.imgur.com/tXSoThF.png)](https://
 
 ## Languages
 
----
-
 ### 🇪🇸 Spanish
-
----
 
 | Source                                                                                     | Author       | Comment                                  |
 | ------------------------------------------------------------------------------------------ | :----------- | :--------------------------------------- |
