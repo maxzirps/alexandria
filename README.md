@@ -19,6 +19,7 @@ Let me know what you think [![Twitter](http://i.imgur.com/tXSoThF.png)](https://
 | ------------------------------------------------------------------------- | :-------------- | :----------------------------------------------- |
 | 🎞️ [The Success Paradox](https://youtu.be/3LopI4YeC4I)                    | Veritasium      | What key does skill really play in ones success? |
 | 🎞️ [How to Effectively Ask for a Pay Raise](https://youtu.be/2HqvbdOWpc8) | Jordan Peterson |                                                  |
+| 📚 [Atomic Habits](https://jamesclear.com/atomic-habits) | James Clear |    Tiny changes have big impact. By tweaking your habits you can improve your life vastly.                                              |
 
 ## Languages
 
