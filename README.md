@@ -13,6 +13,13 @@ Let me know what you think [![Twitter](http://i.imgur.com/tXSoThF.png)](https://
 | 📖 [Official ReactJS Docs](https://reactjs.org/docs/getting-started.html)                                 |               | Nearly all open source projects have top-notch documentation with example projects and in-depth explanations. (Often very underrated!) |
 | 🎞️ [A Beginners Guide to React](https://egghead.io/lessons/react-a-beginners-guide-to-react-introduction) | Kent C. Dodds | Also good for experienced React developers to strengthen their fundamentals.                                                           |
 
+### Other
+
+| Source                                                                    | Author          | Comment                                          |
+| ------------------------------------------------------------------------- | :-------------- | :----------------------------------------------- |
+| 🎞️ [Debugging JavaScript - Chrome DevTools 101](https://youtu.be/H0XScE08hy8)|  Google Chrome Developers      | Use chrome devTools instead of console.log |
+
+
 ## Philosophy, Psycho\*
 
 | Source                                                                    | Author          | Comment                                          |
