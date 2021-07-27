@@ -2,9 +2,14 @@
 
 Throughout my journey of learning new things I stumble upon books, podcasts, articles & more which strenghten my knowledge, give me new insights and/or challenge my existing beliefs. Learning is fun so why not share it?
 
-Let me know what you think [![Twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/maxzirps)
-
 ## Tech
+
+### Data Science
+
+| Source                                                                    | Author          | Comment                                          |
+| ------------------------------------------------------------------------- | :-------------- | :----------------------------------------------- |
+| 🎞️ [Kaggle Courses](https://www.kaggle.com/learn)|        | Very well done tutorials for learning all the tools needed to become a data scientist |
+
 
 ### ⚛ React
 
@@ -12,6 +17,7 @@ Let me know what you think [![Twitter](http://i.imgur.com/tXSoThF.png)](https://
 | --------------------------------------------------------------------------------------------------------- | :------------ | :------------------------------------------------------------------------------------------------------------------------------------- |
 | 📖 [Official ReactJS Docs](https://reactjs.org/docs/getting-started.html)                                 |               | Nearly all open source projects have top-notch documentation with example projects and in-depth explanations. (Often very underrated!) |
 | 🎞️ [A Beginners Guide to React](https://egghead.io/lessons/react-a-beginners-guide-to-react-introduction) | Kent C. Dodds | Also good for experienced React developers to strengthen their fundamentals.                                                           |
+
 
 ### Other
 
