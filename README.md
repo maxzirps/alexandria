@@ -9,6 +9,8 @@ Throughout my journey of learning new things I stumble upon books, podcasts, art
 | Source                                                                    | Author          | Comment                                          |
 | ------------------------------------------------------------------------- | :-------------- | :----------------------------------------------- |
 | 🎞️ [Kaggle Courses](https://www.kaggle.com/learn)|        | Very well done tutorials for learning all the tools needed to become a data scientist |
+| 🎞️ [Sentiment Analysis with Spacy](https://realpython.com/sentiment-analysis-python/)|        |  |
+
 
 
 ### ⚛ React
