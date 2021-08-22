@@ -10,6 +10,9 @@ Throughout my journey of learning new things I stumble upon books, podcasts, art
 | ------------------------------------------------------------------------- | :-------------- | :----------------------------------------------- |
 | 🎞️ [Kaggle Courses](https://www.kaggle.com/learn)|        | Very well done tutorials for learning all the tools needed to become a data scientist |
 | 🎞️ [Sentiment Analysis with Spacy](https://realpython.com/sentiment-analysis-python/)|        |  |
+| 🎞️ [Machine Learning Mastery](https://machinelearningmastery.com/)|    Jason Brownlee    | Tutorials, guides and articles covering many ML topics |
+
+
 
 
 
