@@ -13,7 +13,7 @@ Throughout my journey of learning new things I stumble upon books, podcasts, art
 | 🎞️ [Machine Learning Mastery](https://machinelearningmastery.com/)|    Jason Brownlee    | Tutorials, guides and articles covering many ML topics |
 | 🎞️ [Intuitive understanding of attention mechanism](https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f)|    Harshall Lamba    | Good explanation of the attention mechanism |
 | 🎞️ [Jay Alammar's Blog](https://jalammar.github.io/)|    Jay Alammar    | Visualizations and explanations of ML-concepts (mainly NLP) |
-
+| 🎞️ [Attention is all you need - Youtube video](https://www.youtube.com/watch?v=rBCqOTEfxvg)|    Łukasz Kaiser    | Talk about attention |
 
 
 
